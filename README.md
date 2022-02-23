@@ -1,0 +1,2 @@
+# kcspammer
+KCSPAMMER ONLY FOR WINDOWS.
